@@ -11,7 +11,7 @@
         </div>
         <div class="col-10" align="right">
           <div class="dropdown" style="cursor: pointer;">
-            <img src="" class="avatar" />
+            <img src="dist/img/logo2.png" class="avatar" />
             <button class="dropbtn">
               นายวรายุทธ เทกระโทก
               <i class="fa fa-caret-down"></i>
@@ -29,7 +29,7 @@
         <ul class="sidebar-nav">
           <li class="logo">
             <div align="center">
-              <img src="" class="img-responsive" style=" padding-top: 10%" width="170px">
+              <img src="dist/img/logo2.png" class="img-responsive" style=" padding-top: 10%;" width="170px">
             </div>
           </li>
           <li>
